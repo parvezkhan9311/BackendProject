@@ -1,0 +1,1 @@
+insert into ticket(Passenger_Name,email_id,Booking_Date,Source_Station,Destination_Station) values ("Parvez Khan", "pkparvez@dummy.com",current_timestamp(),"Delhi","Mumbai");
